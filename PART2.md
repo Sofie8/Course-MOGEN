@@ -12,7 +12,7 @@
 </p>
 
 ## Barbara McClintock discovered...?
-What did Barbara McClintock discover in the early 1940's when looking at the patched colors of corn kernels, and for which she received the noble prize in Medicine in 1983? [video](https://youtu.be/ZHho1c-EbTY). Can you explain this phenomenon with a mechanism of gene transfer from the theory lessons?
+What did Barbara McClintock discover in the early 1940's when looking at the patched colors of corn kernels, and for which she received the noble prize in Medicine in 1983? You can find out in this [video](https://youtu.be/ZHho1c-EbTY). Can you explain this phenomenon with a mechanism of gene transfer from the theory lessons?
 
 <img src="https://methodsblog.files.wordpress.com/2017/06/gif_-tes_final.gif?w=250)">
 
@@ -65,7 +65,7 @@ There are two types of retrotransposons, write them below:
 
 Large genomes have tremendous numbers of transposable elements. Some may be composed mostly of transposable elements. 
 
-![](http://www.bio.miami.edu/dana/pix/TE_human_genome.png){width=250px}
+<img src="http://www.bio.miami.edu/dana/pix/TE_human_genome.png" width="150">
 
 More than half of the human genome consists of:  
 -long interspersed elements (LINEs)  
@@ -111,7 +111,7 @@ Can you find another example?
 ## For further reading
 - [Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase] (https://academic.oup.com/dnaresearch/article/25/5/521/5056130)
 - [Beyond SNPs: how to detect selection on transposable element insertions](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12781)
-- [Getting serious about transposable elements] (https://methodsblog.com/2017/06/26/transposable-elements/#more-5902)
+- [Getting serious about transposable elements](https://methodsblog.com/2017/06/26/transposable-elements/#more-5902)
 
 
 &nbsp;
