@@ -6,9 +6,8 @@
 &nbsp;
 &nbsp;
 
-
-| ![alt](https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif)  ![alt](http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg)
-
+<img src="https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif" width="48">
+<img src="http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg" width="48">
 
 ## What did Barbara McClintock discover?
 What did Barbara McClintock discover in the early 1940's when looking at the patched colors of corn kernels, and for which she received the noble prize in Medicine in 1983? [video](https://youtu.be/ZHho1c-EbTY). Can you explain this phenomenon with a mechanism of gene transfer from the theory lessons?
