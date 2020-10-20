@@ -15,16 +15,15 @@ Here you will find the questions and resources to go through the various course 
 
 
 # Schedule
-```{r read schedule, echo=FALSE}
-# ref: https://rmd4sci.njtierney.com/using-rmarkdown.html
-schedule <- read_csv("G:/My Drive/1.Sofie/1.Onderwijs/Bachelor/MoleculaireGenetica/20_21/LessenSofie/CH5/schedule.csv")
-topschedule <- head(schedule)
-urls <- rep("http://stackoverflow.com/",6)
-topschedule$Activity <- paste0("[",topschedule$Activity, "](", urls, ")")
-knitr::kable(topschedule, "html")%>%
-  kable_styling("striped", full_width=FALSE, font_size = 25, position = "left")
-```
-
+| Time  | Activity |
+| ------------- | ------------- |
+| 13h-13h10     | Explanation how to go through the exercises|
+| 13h10-13h50   | Examples of site-specific recombination and GATE-WAY cloning|
+| 13h50-14h30   | Searching for transposable elements in eukaryotes|
+| 14h30-14h50   | Break  |
+| 14h50-15h30   | Searching for transposable elements in prokaryotes|
+| 15h30-16h10   | Modifications to CRISPR-cas9|
+| 16h10-16h15   | Wrap up and feedback|
 
 ## Learning outcomes
 By the end of the RC, you should be able to:  
