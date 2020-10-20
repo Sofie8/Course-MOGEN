@@ -1,6 +1,6 @@
-### RC CH3+CH4: Site specific recombination and Horizontal gene transfer
-## Sofie Thijs (sofie.thijs@uhasselt.be)
-## date: 20/10/2020
+## RC CH3+CH4: Site specific recombination and horizontal gene transfer
+### Sofie Thijs (sofie.thijs@uhasselt.be)
+### date: 20/10/2020
 
 
 &nbsp;
@@ -17,7 +17,7 @@ Here you will find the questions and resources to go through the various course 
 # Schedule
 | Time  | Activity |
 | ------------- | ------------- |
-| 13h-13h10     | Explanation how to go through the exercises|
+| 13h00-13h10     | Explanation how to go through the exercises|
 | 13h10-13h50   | Examples of site-specific recombination and GATE-WAY cloning|
 | 13h50-14h30   | Searching for transposable elements in eukaryotes|
 | 14h30-14h50   | Break  |
