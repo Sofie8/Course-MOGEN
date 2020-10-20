@@ -31,24 +31,27 @@ if you are in a hurry, watch this [1 minute summary](https://www.youtube.com/wat
 - [Super-precise new CRISPR tool could tackle a plethora of genetic diseases](https://www.nature.com/articles/d41586-019-03164-5)
 - [Prime Editing: Genome Editing for Rare Genetic Diseases Without Double-Strand Breaks or Donor DNA](https://www.frontiersin.org/articles/10.3389/fgene.2020.00528/full)
 
-
-## Can you discuss evolution in genome size with the methods we have seen about gene transfer?
-<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="350px">
-and read more about the importance of [genetic diversity in agriculture](https://medium.com/thenextnorm/importance-of-genetic-diversity-in-agriculture-b9f88f5fda55)
-and <img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cc_1_GAO_DSC_3995_1280x720.jpg?itok=zIL-gLCS" width="250px">
+Ethics and CRISPRcas9?
+<img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cc_1_GAO_DSC_3995_1280x720.jpg?itok=zIL-gLCS" width="250px">
 *In a lab chamber in Beijing, Gao Caixia grows CRISPR-modified wheat plants that she hopes will have a higher yield.*
 
+## Genetic diversity, evolution, genome size
+Can you discuss evolution in genome size with the methods we have seen to exchange genetic material?
+<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="350px">
+
+Read more about the importance of [genetic diversity in agriculture](https://medium.com/thenextnorm/importance-of-genetic-diversity-in-agriculture-b9f88f5fda55)
+
 &nbsp;
 &nbsp;
 &nbsp;
 
 
-## Difference Knock-out, knock-down: when to use CRISPR, when RNAi?
+## Difference between knock-out/in and knock-down: when to use CRISPR, when RNAi?
 Which technology is most suitable for performing a complete knockout of a gene, versus a reduction in the gene expression (knockdown)?
 Have a look [here](https://www.youtube.com/watch?v=U3Z4u0DKbx0)
 Is it possible to do RNAi in bacteria?
 
-## References:
+## Further reading:
 - [Dynamics of genome size evolution in birds and mammals](https://www.pnas.org/content/114/8/E1460)
 
 &nbsp;
