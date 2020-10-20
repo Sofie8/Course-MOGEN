@@ -18,11 +18,11 @@ Here you will find the questions and resources to go through the various course 
 | Time  | Activity |
 | ------------- | ------------- |
 | 13h00-13h10     | Explanation how to go through the exercises|
-| 13h10-13h50   | Examples of site-specific recombination and GATE-WAY cloning|
-| 13h50-14h30   | Searching for transposable elements in eukaryotes|
+| 13h10-13h50   | [Examples of site-specific recombination and GATE-WAY cloning](https://github.com/Sofie8/Course-MOGEN/blob/main/PART1.md)|
+| 13h50-14h30   | [Searching for transposable elements in eukaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART2.md)|
 | 14h30-14h50   | Break  |
-| 14h50-15h30   | Searching for transposable elements in prokaryotes|
-| 15h30-16h10   | Modifications to CRISPR-cas9|
+| 14h50-15h30   | [Searching for transposable elements in prokaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART3.md)|
+| 15h30-16h10   | [Modifications to CRISPR-cas9](https://github.com/Sofie8/Course-MOGEN/blob/main/PART4.md)|
 | 16h10-16h15   | Wrap up and feedback|
 
 ## Learning outcomes
