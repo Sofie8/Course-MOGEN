@@ -19,13 +19,13 @@ Give 3 examples of how you can use CRISPRcas9 to introduce genetic changes in a 
 ## Prime editing
 There is a new tool on the market called Prime editing:  
   
-<img src="https://media.nature.com/lw800/magazine-assets/d41586-019-03164-5/d41586-019-03164-5_17295426.png" "width=450px">
+<img src="https://media.nature.com/lw800/magazine-assets/d41586-019-03164-5/d41586-019-03164-5_17295426.png" width="350px">
 
 
 Read this short [paper](https://www.sciencemag.org/news/2019/10/new-prime-genome-editor-could-surpass-crispr) and explain the main differences, improvements of the Prime editing system compared to CrISPRcas9.
 
 If you want to know more, watch this [video](https://www.youtube.com/watch?v=M5mS_moZN_w)
-if you are in a hurry, watch this [1 minute summary](https://www.youtube.com/watch?v=FzVV-AkS76I)
+if you are in a hurry, watch this [1 minute summary](https://www.youtube.com/watch?v=FzVV-AkS76I).
 
 ## Further reading
 - [Super-precise new CRISPR tool could tackle a plethora of genetic diseases](https://www.nature.com/articles/d41586-019-03164-5)
@@ -33,9 +33,9 @@ if you are in a hurry, watch this [1 minute summary](https://www.youtube.com/wat
 
 
 ## Can you discuss evolution in genome size with the methods we have seen about gene transfer?
-<img src=https"://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="450px">
+<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="350px">
 and read more about the importance of [genetic diversity in agriculture](https://medium.com/thenextnorm/importance-of-genetic-diversity-in-agriculture-b9f88f5fda55)
-and <img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cc_1_GAO_DSC_3995_1280x720.jpg?itok=zIL-gLCS">
+and <img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cc_1_GAO_DSC_3995_1280x720.jpg?itok=zIL-gLCS" width="250px">
 *In a lab chamber in Beijing, Gao Caixia grows CRISPR-modified wheat plants that she hopes will have a higher yield.*
 
 &nbsp;
