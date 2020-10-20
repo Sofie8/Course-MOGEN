@@ -34,7 +34,7 @@ The LR Reaction takes place between the attL sites of the generated entry clone 
 
 Once the BP and/or LR reactions are performed, the next step is to transform competent E. coli cells and select the positive clones. The entry clone and destination vector carry different antibiotic resistance markers (indicated here by plasmid color), allowing you to easily select for the expression clone. 
 
-You can read more about GATEWAY-CLONING on the [invitrogen website](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/)
+You can read more about GATEWAY-CLONING on the [invitrogen website](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/).
 
 ## Visualisation of gate-way cloning
 In this [video](https://www.youtube.com/watch?v=kVm5rC-0Aik), you can get an idea of how to clone a plant gene in an GATEWAY-Expression vector. Just watch the first 3-4 minutes to give you an idea.
@@ -48,7 +48,7 @@ We are going to search ourself a gateway destination vector on the [INVITROGEN's
 Write down 4 different destination vectors:  
 ![](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway08.gif)
 
-... and what you can do with it.  
+What you can do with it?   
 For example have also a look at the [VIB-UGent website](https://gatewayvectors.vib.be/) for gate-way vectors for plant transformation and their [applications](https://www.psb.ugent.be/).
 
 
