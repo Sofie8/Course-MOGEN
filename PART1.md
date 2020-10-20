@@ -14,7 +14,7 @@
 ## Cre-Lox and FLEx technology
 The Cre-Lox system is an ingenious system of site-specific recombination and has been successfully used in biotechnology to alter gene function. 
 Refresh your knowledge about Cre-LoxP by watching this [video](https://www.youtube.com/watch?v=I21NmFq4F8A), and how FLEx technology
-by Applied Biological Materials has adapted this system
+by Applied Biological Materials has adapted this system.
 
 
 ## GATE-WAY cloning 
@@ -49,9 +49,7 @@ Write down 4 different destination vectors:
 ![](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway08.gif)
 
 ... and what you can do with it.  
-For example have also a look at the [VIB-UGent website](https://gatewayvectors.vib.be/) for gatewayvectors for plant transformation and their [applications](https://gatewayvectors.vib.be/information) 
-
-
+For example have also a look at the [VIB-UGent website](https://gatewayvectors.vib.be/) for gatewayvectors for plant transformation and their [applications](https://gatewayvectors.vib.be/information).
 
 
 &nbsp;
