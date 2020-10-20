@@ -1,84 +1,19 @@
----
-title: "Transposable elements in Eukaryotes"
-output: html_document
-author: Sofie Thijs (sofie.thijs@uhasselt.be)
-date: 20/10/2020
-theme: cerulean
----
-
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 18px;
-}
-h1.title {
-  font-size: 38px;
-  color: Purple;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
-
+## Transposable elements in Eukaryotes
+### author: Sofie Thijs (sofie.thijs@uhasselt.be)
+### date: 20/10/2020
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 
 | ![alt](https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif){width=150px}  ![alt](http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg){width=150px}
 
-```{r knitr, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE,
-	eval = TRUE
-)
-#ref for the font: https://stackoverflow.com/questions/30446905/rmarkdown-font-size-and-header/30447045
-```
 
-``` {r cleanup, include=FALSE}
-rm(list=ls()) # remove all objects from your workspace, start clean
-options(warn=-1) # toggle off warnings
-```
-
-```{r setup, include=FALSE}
-### libraries
-library(lifecycle)
-library(tidyverse)
-library(yaml)
-library(icesTAF)
-library(rmarkdown)
-library(renv)
-library(knitr)
-library(kableExtra)
-```
-
-
-## The discovery of Barbara McClintock
+## What did Barbara McClintock discover?
 What did Barbara McClintock discover in the early 1940's when looking at the patched colors of corn kernels, and for which she received the noble prize in Medicine in 1983? [video](https://youtu.be/ZHho1c-EbTY). Can you explain this phenomenon with a mechanism of gene transfer from the theory lessons?
 
+![](https://methodsblog.files.wordpress.com/2017/06/gif_-tes_final.gif?w=250)</center>
 
 ## Transposable Elements
 A Transposable Element (TE), sometimes called a "jumping gene", is short piece of DNA capable of moving from one location in the genome to another.
@@ -101,11 +36,7 @@ Class II: "cut and paste":
 -autonomous  
 -non-autonomous  
 
-![](https://methodsblog.files.wordpress.com/2017/06/gif_-tes_final.gif?w=150)</center>
-
 If you want to know more about Barbara's work you can later listen to this [podcast](https://www.cshl.edu/dark-matter-genome-pt-1/)
-
-Can you give an example of a human diseass caused by TEs?
 
 
 ## Retrotransposons
@@ -179,7 +110,7 @@ Can you find another example?
 ## For further reading
 - [Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase] (https://academic.oup.com/dnaresearch/article/25/5/521/5056130)
 - [Beyond SNPs: how to detect selection on transposable element insertions](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12781)
-- Getting serious about transposable elements [https://methodsblog.com/2017/06/26/transposable-elements/#more-5902]
+- [Getting serious about transposable elements] (https://methodsblog.com/2017/06/26/transposable-elements/#more-5902)
 
 
 &nbsp;
@@ -189,3 +120,8 @@ Can you find another example?
 
 ## References
 - http://www.bio.miami.edu/dana/250/250S19_19.html
+
+&nbsp;
+&nbsp;
+&nbsp;
+
