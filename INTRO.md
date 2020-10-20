@@ -13,33 +13,6 @@ Here you will find the questions and resources to go through the various course 
 
 ![](http://www.australasianscience.com.au/sites/default/files/imagecache/article_main_image/DNA_evolution.jpg)</center>
 
-```{r knitr, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE,
-	eval = TRUE
-)
-#ref for the font: https://stackoverflow.com/questions/30446905/rmarkdown-font-size-and-header/30447045
-```
-
-``` {r cleanup, include=FALSE}
-rm(list=ls()) # remove all objects from your workspace, start clean
-options(warn=-1) # toggle off warnings
-```
-
-```{r setup, include=FALSE}
-### libraries
-library(lifecycle)
-library(tidyverse)
-library(yaml)
-library(icesTAF)
-library(rmarkdown)
-library(renv)
-library(knitr)
-library(kableExtra)
-```
-
 # Schedule
 ```{r read schedule, echo=FALSE}
 # ref: https://rmd4sci.njtierney.com/using-rmarkdown.html
