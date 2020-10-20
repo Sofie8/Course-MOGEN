@@ -1,79 +1,13 @@
----
-title: "Transposable elements in Prokaryotes"
-output: html_document
-author: Sofie Thijs (sofie.thijs@uhasselt.be)
-date: 20/10/2020
-theme: cerulean
----
-
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 18px;
-}
-h1.title {
-  font-size: 38px;
-  color: Purple;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
-
+### Transposable elements in Prokaryotes
+## author: Sofie Thijs (sofie.thijs@uhasselt.be)
+## date: 20/10/2020
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 
-
-| ![alt](https://thumbs.gfycat.com/FatSmoggyAztecant-size_restricted.gif){width=150px}
-
-```{r knitr, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE,
-	eval = TRUE
-)
-#ref for the font: https://stackoverflow.com/questions/30446905/rmarkdown-font-size-and-header/30447045
-```
-
-``` {r cleanup, include=FALSE}
-rm(list=ls()) # remove all objects from your workspace, start clean
-options(warn=-1) # toggle off warnings
-```
-
-```{r setup, include=FALSE}
-### libraries
-library(lifecycle)
-library(tidyverse)
-library(yaml)
-library(icesTAF)
-library(rmarkdown)
-library(renv)
-library(knitr)
-library(kableExtra)
-```
+<img src="(https://thumbs.gfycat.com/FatSmoggyAztecant-size_restricted.gif)width="150">
 
 
 ## Transposable Elements in Bacteria
@@ -81,7 +15,7 @@ library(kableExtra)
 Two basic types of TEs are known in bacteria:
 
 -Insertion Sequence (IS) elements  
--transposons  
+-transposons (composite and complex) 
 
 ## IS elements
 Insertion Sequences are short pieces of DNA that move about in the genome.  
@@ -108,7 +42,7 @@ Use the [NCBI database](https://www.ncbi.nlm.nih.gov/) and search for transposon
 
 What is the size of the bacteria genome of *Pseudomonas putida* F1?
 Compare with other bacterial strains?  
-Can you explain differences in genome size based on lifestyle? where was the bacteria isolated from? Soil, gut, nodule?  
+Can you explain differences in genome size based on lifestyle? where was the bacteria isolated from? Soil, gut, plant rhizosphere?  
 
 Was your bacteria infected in the past with a phage? Use the [Phaster database](http://phaster.ca/)  
 
@@ -122,3 +56,7 @@ Select a bacterium of interest, and search if it has CRISPRcas9 systems using th
 
 ## References
 - http://www.bio.miami.edu/dana/250/250S19_19.html
+
+&nbsp;
+&nbsp;
+&nbsp;
