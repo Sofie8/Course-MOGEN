@@ -7,7 +7,7 @@
 &nbsp;
 
 
-<img src="(https://thumbs.gfycat.com/FatSmoggyAztecant-size_restricted.gif)width="150">
+<img src="https://thumbs.gfycat.com/FatSmoggyAztecant-size_restricted.gif" width="150">
 
 
 ## Transposable Elements in Bacteria
