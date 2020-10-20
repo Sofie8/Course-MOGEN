@@ -7,7 +7,7 @@
 &nbsp;
 
 
-| ![alt](https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif){width=150px}  ![alt](http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg){width=150px}
+| ![alt](https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif)  ![alt](http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg)
 
 
 ## What did Barbara McClintock discover?
