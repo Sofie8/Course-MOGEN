@@ -1,0 +1,124 @@
+---
+title: "Transposable elements in Prokaryotes"
+output: html_document
+author: Sofie Thijs (sofie.thijs@uhasselt.be)
+date: 20/10/2020
+theme: cerulean
+---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 14px;
+  }
+td {  /* Table  */
+  font-size: 18px;
+}
+h1.title {
+  font-size: 38px;
+  color: Purple;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+| ![alt](https://thumbs.gfycat.com/FatSmoggyAztecant-size_restricted.gif){width=150px}
+
+```{r knitr, include=FALSE}
+knitr::opts_chunk$set(
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE,
+	eval = TRUE
+)
+#ref for the font: https://stackoverflow.com/questions/30446905/rmarkdown-font-size-and-header/30447045
+```
+
+``` {r cleanup, include=FALSE}
+rm(list=ls()) # remove all objects from your workspace, start clean
+options(warn=-1) # toggle off warnings
+```
+
+```{r setup, include=FALSE}
+### libraries
+library(lifecycle)
+library(tidyverse)
+library(yaml)
+library(icesTAF)
+library(rmarkdown)
+library(renv)
+library(knitr)
+library(kableExtra)
+```
+
+
+## Transposable Elements in Bacteria
+
+Two basic types of TEs are known in bacteria:
+
+-Insertion Sequence (IS) elements  
+-transposons  
+
+## IS elements
+Insertion Sequences are short pieces of DNA that move about in the genome.  
+IS element insertion disrupts gene function.  
+All genes downstream from insertion in an operon will be disrupted.  
+The mutation is said to be polar.  
+All IS elements are flanked by inverted repeats.  
+
+## Transposons
+In Japanese hospitals in the 1950's a strain of Shigella bacteria appeared that was resistant to a wide array of antibiotics. The multiple-drug resistance phenotype was inherited as a single package. Other bacterial species could obtain this resistance via transformation. The genes were being spread via a self-replicating episome that could
+replicate freely in the cytoplasm or insert into the bacterial chromosome (and replicate with it) It was later dubbed a transposon.
+
+A bacterial transposon can:  
+- excise from a host gene without disrupting it (precise excision)  
+- excise and take some host DNA along with it (imprecise excision)  
+
+
+Imprecise excision is far more common than precise excision.  
+
+## Excercise searching transposons, IS in bacteria
+Use the [NCBI database](https://www.ncbi.nlm.nih.gov/) and search for transposons and insertion elements in:  
+- *Pseudomonas putida* F1  
+- *Pseudomonas putida* HS1  
+
+What is the size of the bacteria genome of *Pseudomonas putida* F1?
+Compare with other bacterial strains?  
+Can you explain differences in genome size based on lifestyle? where was the bacteria isolated from? Soil, gut, nodule?  
+
+Was your bacteria infected in the past with a phage? Use the [Phaster database](http://phaster.ca/)  
+
+Select a bacterium of interest, and search if it has CRISPRcas9 systems using this [database](https://crisprcas.i2bc.paris-saclay.fr/MainDb/StrainList)? How many phage elements has the strain incorporated?
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## References
+- http://www.bio.miami.edu/dana/250/250S19_19.html
