@@ -1,6 +1,6 @@
-### Transposable elements in Prokaryotes
-## author: Sofie Thijs (sofie.thijs@uhasselt.be)
-## date: 20/10/2020
+## Transposable elements in Prokaryotes
+### author: Sofie Thijs (sofie.thijs@uhasselt.be)
+### date: 20/10/2020
 
 &nbsp;
 &nbsp;
