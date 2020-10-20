@@ -6,13 +6,15 @@
 &nbsp;
 &nbsp;
 
-![alt] <img src="https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif" width="55">
-![alt] <img src="http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg" width="55">
+<p align="center">
+<img src="https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif" width="150">
+<img src="http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg" width="150">
+</p>
 
-## What did Barbara McClintock discover?
+## Barbara McClintock discovered...?
 What did Barbara McClintock discover in the early 1940's when looking at the patched colors of corn kernels, and for which she received the noble prize in Medicine in 1983? [video](https://youtu.be/ZHho1c-EbTY). Can you explain this phenomenon with a mechanism of gene transfer from the theory lessons?
 
-![](https://methodsblog.files.wordpress.com/2017/06/gif_-tes_final.gif?w=250)</center>
+<img src="https://methodsblog.files.wordpress.com/2017/06/gif_-tes_final.gif?w=250)">
 
 ## Transposable Elements
 A Transposable Element (TE), sometimes called a "jumping gene", is short piece of DNA capable of moving from one location in the genome to another.
