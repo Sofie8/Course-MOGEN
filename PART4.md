@@ -55,7 +55,7 @@ What is the importance of [genetic diversity in agriculture](https://medium.com/
 
 ## Difference between knock-out/in and knock-down: when to use CRISPR, when RNAi?
 Which technology is most suitable for performing a complete knockout of a gene, versus a reduction in the gene expression (knockdown)?
-Have a look [here](https://www.youtube.com/watch?v=U3Z4u0DKbx0)
+Have a look [here](https://www.youtube.com/watch?v=U3Z4u0DKbx0).  
 Is it possible to do RNAi in bacteria?
 
 ## References:
