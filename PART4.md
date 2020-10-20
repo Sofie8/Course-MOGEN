@@ -39,11 +39,14 @@ if you are in a hurry, watch this [1 minute summary](https://www.youtube.com/wat
 ## Genetic diversity, evolution, genome size
 Can you discuss evolution in genome size with the methods we have seen to exchange genetic material?
 <p align="left">
-<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="350px">
 <img src="https://www.pnas.org/content/pnas/114/8/E1460/F2.large.jpg?width=800&height=600&carousel=1" width="250px">
+<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41576-019-0106-6/MediaObjects/41576_2019_106_Fig1_HTML.png" width="350px">
 </p>
 
-Read more about the importance of [genetic diversity in agriculture](https://medium.com/thenextnorm/importance-of-genetic-diversity-in-agriculture-b9f88f5fda55)
+Further reading:
+- [Dynamics of genome size evolution in birds and mammals](https://www.pnas.org/content/114/8/E1460)  
+
+What is the importance of [genetic diversity in agriculture](https://medium.com/thenextnorm/importance-of-genetic-diversity-in-agriculture-b9f88f5fda55)?
 
 &nbsp;
 &nbsp;
@@ -55,9 +58,9 @@ Which technology is most suitable for performing a complete knockout of a gene, 
 Have a look [here](https://www.youtube.com/watch?v=U3Z4u0DKbx0)
 Is it possible to do RNAi in bacteria?
 
-## Further reading:
-- [Dynamics of genome size evolution in birds and mammals](https://www.pnas.org/content/114/8/E1460)
+## References:
 
+- https://www.sciencemag.org/news/2019/07/feed-its-14-billion-china-bets-big-genome-editing-crops
 &nbsp;
 &nbsp;
 &nbsp;
