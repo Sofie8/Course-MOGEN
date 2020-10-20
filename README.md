@@ -1,4 +1,4 @@
-### "RC CH3+CH4: Site specific recombination and Horizontal gene transfer"
+### RC CH3+CH4: Site specific recombination and Horizontal gene transfer
 ## Sofie Thijs (sofie.thijs@uhasselt.be)
 ## date: 20/10/2020
 
