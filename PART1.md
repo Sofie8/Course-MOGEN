@@ -7,7 +7,6 @@
 &nbsp;
 &nbsp;
 
-Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase
 
 ![](https://i.makeagif.com/media/10-11-2017/-Q8oVn.gif)</center>
 
