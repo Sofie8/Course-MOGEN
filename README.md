@@ -32,10 +32,10 @@ By the end of the RC, you should be able to:
 
 - You can understand and discuss transposable elements in eukaryotes, and how it has contributed to genetic diversity  
 
-- You know how to use web-based databases for searching transposons, IS, CRISPR repeats in bacteria, fungi, plant cells.  
+- You know how to use web-based databases for searching transposons, IS, phages, CRISPR in bacteria, fungi, plant and animal cells  
 
-- You can schematise the process of CRIPRcas9, give an example of an application, and you can discuss prime editing.
+- You can schematise the process of CRISPRcas9, give an example of an application, and you can discuss prime editing.
 
 
 ## Course instructor
-Sofie.thijs@uhasselt.be
+sofie.thijs@uhasselt.be
