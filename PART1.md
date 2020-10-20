@@ -1,84 +1,21 @@
----
-title: "Site-specific recombination and GATEWAY CLONING"
-output: html_document
-author: Sofie Thijs (sofie.thijs@uhasselt.be)
-date: 20/10/2020
-theme: cerulean
----
-
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 18px;
-}
-h1.title {
-  font-size: 38px;
-  color: Purple;
-}
-h1 { /* Header 1 */
-  font-size: 28px;
-  color: DarkBlue;
-}
-h2 { /* Header 2 */
-    font-size: 22px;
-  color: DarkBlue;
-}
-h3 { /* Header 3 */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-}
-code.r{ /* Code block */
-    font-size: 12px;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-}
-</style>
+## Site-specific recombination and GATEWAY CLONING
+### author: Sofie Thijs (sofie.thijs@uhasselt.be)
+### date: 20/10/2020
 
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-
+Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase
 
 ![](https://i.makeagif.com/media/10-11-2017/-Q8oVn.gif)</center>
 
-```{r knitr, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE,
-	eval = TRUE
-)
-#ref for the font: https://stackoverflow.com/questions/30446905/rmarkdown-font-size-and-header/30447045
-```
 
-``` {r cleanup, include=FALSE}
-rm(list=ls()) # remove all objects from your workspace, start clean
-options(warn=-1) # toggle off warnings
-```
-
-```{r setup, include=FALSE}
-### libraries
-library(lifecycle)
-library(tidyverse)
-library(yaml)
-library(icesTAF)
-library(rmarkdown)
-library(renv)
-library(knitr)
-library(kableExtra)
-```
-
-
-## Cre-LOX and FLEx technology
+## Cre-Lox and FLEx technology
 The Cre-Lox system is an ingenious system of site-specific recombination and has been successfully used in biotechnology to alter gene function. 
-Refresh your knowledge about Cre-LoxP by watching this [video](https://www.youtube.com/watch?v=I21NmFq4F8A). 
+Refresh your knowledge about Cre-LoxP by watching this [video](https://www.youtube.com/watch?v=I21NmFq4F8A), and how FLEx technology
+by Applied Biological Materials has adapted this system
 
 
 ## GATE-WAY cloning 
@@ -86,6 +23,7 @@ Just like the cre-lox FLEx switch technology, another company, INVITROGEN, has i
 
 ![](https://blog.addgene.org/hs-fs/hubfs/1_17_to_3_17/Gateway_MS_2017_1_2/lambda%20phage.png?width=645&name=lambda%20phage.png)</center>
 
+In short, Gateway Cloning Technology is an easy-to-use system for cloning and subcloning DNA segments (e.g. genes of interest), facilitating gene functional analysis, protein expression, and the integration of technology platforms. One can also readily clone PCR products into so-called Gateway "Entry" vectors. To shuttle inserts from one vector to another, the Gateway Cloning Technology uses bacteriophage lambda-based site-specific recombination. There is no need to use restriction enzymes and ligase to subclone inserts.
 
 Gateway vectors contain modified versions of the att sites so that scientists can easily clone in their desired DNA sequences. Gateway technology relies on the two reactions described below:
 
@@ -97,6 +35,8 @@ The LR Reaction takes place between the attL sites of the generated entry clone 
 
 Once the BP and/or LR reactions are performed, the next step is to transform competent E. coli cells and select the positive clones. The entry clone and destination vector carry different antibiotic resistance markers (indicated here by plasmid color), allowing you to easily select for the expression clone. 
 
+You can read more about GATEWAY-CLONING on the [invitrogen website](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/)
+
 ## Visualisation of gate-way cloning
 In this [video](https://www.youtube.com/watch?v=kVm5rC-0Aik), you can get an idea of how to clone a plant gene in an GATEWAY-Expression vector. Just watch the first 3-4 minutes to give you an idea.
 
@@ -106,7 +46,13 @@ We are going to search ourself a gateway destination vector on the [INVITROGEN's
 
 
 ## Exercise 1
-Write down 4 different destination vectors and what you can do with it.
+Write down 4 different destination vectors:  
+![](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway08.gif)
+
+... and what you can do with it.  
+For example have also a look at the [VIB-UGent website](https://gatewayvectors.vib.be/) for gatewayvectors for plant transformation and their [applications](https://gatewayvectors.vib.be/information) 
+
+
 
 
 &nbsp;
@@ -116,3 +62,10 @@ Write down 4 different destination vectors and what you can do with it.
 
 ## References
 - https://blog.addgene.org/plasmids-101-gateway-cloning
+- https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
