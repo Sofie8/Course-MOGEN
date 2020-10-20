@@ -37,7 +37,7 @@ Class II: "cut and paste":
 -autonomous  
 -non-autonomous  
 
-If you want to know more about Barbara's work you can later listen to this [podcast](https://www.cshl.edu/dark-matter-genome-pt-1/)
+If you want to know more about Barbara's work you can later listen to this [podcast](https://www.cshl.edu/dark-matter-genome-pt-1/).
 
 
 ## Retrotransposons
@@ -74,10 +74,7 @@ Most no longer transpose, but can still be identified by the presence of flankin
 
 A vast number are found only in introns. These are excised and never translated. They are evolutionary relics rendered harmless by their benign insertion location the host's regulatory mechanisms
 
-To which type of retrotransposons do LINE and SINE belong respectively?  
-
-![](G:/My Drive/1.Sofie/1.Onderwijs/Bachelor/MoleculaireGenetica/20_21/LessenSofie/CH5/LTR.png)
-![](G:/My Drive/1.Sofie/1.Onderwijs/Bachelor/MoleculaireGenetica/20_21/LessenSofie/CH5/non-LTR.png)
+To which type of retrotransposons do LINE and SINE belong?
 
 ## SINE
 The most abundant SINE in the human genome contains a target site for the Alu (from *Arthrobacter luteus*) restriction enzyme. This SINE is named the Alu element.
@@ -109,7 +106,7 @@ Can you find another example?
 &nbsp;
 
 ## For further reading
-- [Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase] (https://academic.oup.com/dnaresearch/article/25/5/521/5056130)
+- [Mobile elements contribute to the uniqueness of human genome with 15,000 human-specific insertions and 14 Mbp sequence increase](https://academic.oup.com/dnaresearch/article/25/5/521/5056130)
 - [Beyond SNPs: how to detect selection on transposable element insertions](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12781)
 - [Getting serious about transposable elements](https://methodsblog.com/2017/06/26/transposable-elements/#more-5902)
 
