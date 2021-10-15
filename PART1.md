@@ -1,6 +1,6 @@
 ## Site-specific recombination and GATEWAY CLONING
-### author: Sofie Thijs (sofie.thijs@uhasselt.be)
-### date: 18/10/2021
+### Sofie Thijs (sofie.thijs@uhasselt.be)
+### 18/10/2021
 
 
 &nbsp;
