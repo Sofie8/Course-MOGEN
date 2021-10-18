@@ -33,9 +33,9 @@ Class I: "copy and paste"
 - retrotransposons
 
 Class II: "cut and paste":  
--DNA transposons  
--autonomous  
--non-autonomous  
+- DNA transposons  
+- autonomous  
+- non-autonomous  
 
 If you want to know more about Barbara's work you can later listen to this [podcast](https://www.cshl.edu/dark-matter-genome-pt-1/).
 
