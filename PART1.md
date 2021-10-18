@@ -20,7 +20,7 @@ by Applied Biological Materials has adapted this system.
 ## GATE-WAY cloning 
 Just like the cre-lox FLEx switch technology, another company, INVITROGEN, has introduced the GATEWAY Cloning Technology. The Gateway cloning method, developed by Invitrogen, is an in vitro version of the integration and excision recombination reactions that take place when lambda phage infects bacteria. In vivo, these recombination reactions are facilitated by the recombination of attachment sites from the phage (attP) and the bacteria (attB). As a result of recombination between the attP and attB sites, the phage integrates into the bacterial genome flanked by two new recombination sites (attL-left- and attR-right-, Figure 1). Under certain conditions, the attL and attR sites can recombine, leading to the excision of the phage from the bacterial chromosome and the regeneration of attP and attB sites.
 
-<img src="https://blog.addgene.org/hs-fs/hubfs/1_17_to_3_17/Gateway_MS_2017_1_2/lambda%20phage.png?width=645&name=lambda%20phage.png" width="400px">
+<img src="https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway04.gif" width="400px">
 
 In short, Gateway Cloning Technology is an easy-to-use system for cloning and subcloning DNA segments (e.g. genes of interest), facilitating gene functional analysis, protein expression, and the integration of technology platforms. One can also readily clone PCR products into so-called Gateway "Entry" vectors. To shuttle inserts from one vector to another, the Gateway Cloning Technology uses bacteriophage lambda-based site-specific recombination. There is no need to use restriction enzymes and ligase to subclone inserts.
 
@@ -28,7 +28,7 @@ Gateway vectors contain modified versions of the att sites so that scientists ca
 
 The BP Reaction takes place between the attB sites flanking the insert and the attP sites of the donor vector. This reaction is catalyzed by the BP Clonase enzyme mix and generates the entry clone containing the DNA of interest flanked by attL sites. As a byproduct of the reaction, the ccdB gene is excised from the donor vector.
 
-<img src="https://blog.addgene.org/hs-fs/hubfs/1_17_to_3_17/Gateway_MS_2017_1_2/bp%20-%20lr.png?width=699&name=bp%20-%20lr.png" width="400px">
+<img src="https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway05.gif" width="400px">
 
 The LR Reaction takes place between the attL sites of the generated entry clone and the attR sites of the destination vector. This reaction is catalyzed by the LR Clonase enzyme mix. As a result, an expression clone with the DNA of interest flanked by attB sites is generated. As in the BP reaction, a DNA fragment containing the ccdB gene is excised from the destination vector. 
 
