@@ -37,8 +37,6 @@ Once the BP and/or LR reactions are performed, the next step is to transform com
 You can read more about GATEWAY-CLONING on the [INVITROGEN website](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/).
 
 ## Visualisation of gate-way cloning
-In this [video](https://www.youtube.com/watch?v=kVm5rC-0Aik), you can get an idea of how to clone a plant gene in an GATEWAY-Expression vector. Just watch the first 3-4 minutes to give you an idea.
-
 We are going to search ourself a gateway destination vector on the [INVITROGEN's webpage](https://www.thermofisher.com/be/en/home/life-science/cloning/gateway-cloning/gateway-destination-vectors.html). Which types of destination vectors do you find. Select one, e.g. the [yeast two hybrid system](https://www.thermofisher.com/order/catalog/product/PQ1000101#/PQ1000101) and read what you can study with it.
 
 &nbsp;
