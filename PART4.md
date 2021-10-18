@@ -16,7 +16,7 @@ Refresh what the CRISPRcas9 system does by watching this [video](https://www.you
 Give 3 examples of how you can use CRISPRcas9 to introduce genetic changes in a gene?
   
 Give an application of CRISPRcas9.  
-<img src="https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cc_1_GAO_DSC_3995_1280x720.jpg?itok=zIL-gLCS" width="250px">  
+<img src="https://www.science.org/do/10.1126/science.aay8951/full/cc_1_GAO_DSC_3995_1280x720.jpg" width="250px">  
 *In a lab chamber in Beijing, Gao Caixia grows CRISPR-modified wheat plants that she hopes will have a higher yield.*
 
 
