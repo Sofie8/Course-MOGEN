@@ -1,6 +1,6 @@
 ## RC HC3+HC4: Site specific recombination and horizontal gene transfer
 ### Sofie Thijs (sofie.thijs@uhasselt.be)
-### date: 20/10/2022
+### date: 13/10/2023
 
 
 &nbsp;
@@ -17,13 +17,13 @@ Here you will find the questions and resources to go through the various course 
 # Schedule
 | Time  | Activity |
 | ------------- | ------------- |
-| 9h00-9h10     | Explanation how to go through the exercises|
-| 9h10-9h50   | [Examples of site-specific recombination and GATE-WAY cloning](https://github.com/Sofie8/Course-MOGEN/blob/main/PART1.md)|
-| 9h50-10h30   | [Searching for transposable elements in eukaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART2.md)|
-| 10h30-10h50   | Break  |
-| 10h50-11h30   | [Searching for transposable elements in prokaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART3.md)|
-| 11h30-12h10   | [Modifications to CRISPR-cas9](https://github.com/Sofie8/Course-MOGEN/blob/main/PART4.md)|1
-| 12h10-12h15   | Wrap up and feedback|
+| 15h30-15h35     | Explanation how to go through the exercises|
+| 15h35-15h50   | [Examples of site-specific recombination and GATE-WAY cloning](https://github.com/Sofie8/Course-MOGEN/blob/main/PART1.md)|
+| 15h50-16h10   | [Searching for transposable elements in eukaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART2.md)|
+| 16h10-16h20   | Break  |
+| 16h20-16h40   | [Searching for transposable elements in prokaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART3.md)|
+| 16h40-16h55   | [Modifications to CRISPR-cas9](https://github.com/Sofie8/Course-MOGEN/blob/main/PART4.md)|1
+| 16h55-17h00   | Wrap up and feedback|
 
 ## Learning outcomes
 By the end of the RC, you should be able to:  
