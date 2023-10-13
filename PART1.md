@@ -34,10 +34,10 @@ The LR Reaction takes place between the attL sites of the generated entry clone 
 
 Once the BP and/or LR reactions are performed, the next step is to transform competent E. coli cells and select the positive clones. The entry clone and destination vector carry different antibiotic resistance markers (indicated here by plasmid color), allowing you to easily select for the expression clone. 
 
-You can read more about GATEWAY-CLONING on the [INVITROGEN website](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/).
+You can read more about GATEWAY-CLONING on the [INVITROGEN website](https://www.thermofisher.com/be/en/home/life-science/cloning/gateway-cloning/gateway-technology.html).
 
 ## Visualisation of gate-way cloning
-We are going to search ourself a gateway destination vector on the [INVITROGEN's webpage](https://www.thermofisher.com/be/en/home/life-science/cloning/gateway-cloning/gateway-destination-vectors.html). Which types of destination vectors do you find. Select one, e.g. the [yeast two hybrid system](https://www.thermofisher.com/order/catalog/product/PQ1000101#/PQ1000101) and read what you can study with it.
+We are going to search ourself a gateway destination vector on the [INVITROGEN's webpage](https://www.thermofisher.com/be/en/home/life-science/cloning/gateway-cloning/gateway-technology.html). Which types of destination vectors do you find. Select one, e.g. the [yeast two hybrid system](https://www.thermofisher.com/order/catalog/product/PQ1000101#/PQ1000101) and [read](https://www.singerinstruments.com/resource/yeast-2-hybrid/) what you can study with it.
 
 &nbsp;
 
@@ -56,6 +56,7 @@ For example have also a look at the [VIB-UGent website](https://gatewayvectors.v
 
 
 ## References
+- https://www.youtube.com/watch?v=e_ShyrRrufM
 - https://blog.addgene.org/plasmids-101-gateway-cloning
 - https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/
 
