@@ -17,8 +17,8 @@ Here you will find the questions and resources to go through the various course 
 # Schedule
 | Time  | Activity |
 | ------------- | ------------- |
-| 11h00-11h10     | Explanation how to go through the exercises|
-| 11h10-12h00   | [Examples of site-specific recombination and GATE-WAY cloning](https://github.com/Sofie8/Course-MOGEN/blob/main/PART1.md)|
+| 11h00-11h15     | Explanation how to go through the exercises|
+| 11h15-12h00   | [Examples of site-specific recombination and GATE-WAY cloning](https://github.com/Sofie8/Course-MOGEN/blob/main/PART1.md)|
 | 12h00-12h50   | [Searching for transposable elements in eukaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART2.md)|
 |               | 10/10/2024  |
 | 11h30-12h00   | [Searching for transposable elements in prokaryotes](https://github.com/Sofie8/Course-MOGEN/blob/main/PART3.md)|
