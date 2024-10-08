@@ -65,7 +65,7 @@ There are two types of retrotransposons, write them below:
 
 Large genomes have tremendous numbers of transposable elements. Some may be composed mostly of transposable elements. 
 
-<img src="http://www.bio.miami.edu/dana/pix/TE_human_genome.png" width="200">
+<img src="https://www.bio.miami.edu/dana/pix/TE_human_genome.png" width="200">
 
 More than half of the human genome consists of:  
 -long interspersed elements (LINEs)  
