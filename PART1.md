@@ -16,6 +16,16 @@ The Cre-Lox system is an ingenious system of site-specific recombination and has
 Refresh your knowledge about Cre-LoxP by watching this [video](https://www.youtube.com/watch?v=I21NmFq4F8A), and how FLEx technology
 by Applied Biological Materials has adapted this system.
 
+&nbsp;
+
+## Exercise 1
+1) Explain the role of Cre recombinase in the Cre-Lox system. How does it enable conditional gene expression?
+2) Compare the FLEx switch to traditional Cre-Lox systems. What advantages does FLEx offer? Tip: Discuss how the orientation of LoxP sites affects the gene switching mechanism in the FLEx system. What happens during the excision and inversion events?
+4) Design an experiment where you would use the FLEx system to study a specific gene in mice. Describe your hypothesis and methods.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## GATE-WAY cloning 
 Just like the cre-lox FLEx switch technology, another company, INVITROGEN, has introduced the GATEWAY Cloning Technology. The Gateway cloning method, developed by Invitrogen, is an in vitro version of the integration and excision recombination reactions that take place when lambda phage infects bacteria. In vivo, these recombination reactions are facilitated by the recombination of attachment sites from the phage (attP) and the bacteria (attB). As a result of recombination between the attP and attB sites, the phage integrates into the bacterial genome flanked by two new recombination sites (attL-left- and attR-right-, Figure 1). Under certain conditions, the attL and attR sites can recombine, leading to the excision of the phage from the bacterial chromosome and the regeneration of attP and attB sites.
@@ -42,11 +52,11 @@ We are going to search ourself a gateway destination vector on the [INVITROGEN's
 &nbsp;
 
 
-## Exercise 1
+## Exercise 2
 Write down 4 different destination vectors:  
 ![](https://www.embl.de/pepcore/pepcore_services/cloning/cloning_methods/recombination/gateway/gateway08.gif)
 
-What you can do with it?   
+What can you do with it?   
 For example have also a look at the [VIB-UGent website](https://gatewayvectors.vib.be/) for gate-way vectors for plant transformation and their [applications](https://www.psb.ugent.be/).
 
 
