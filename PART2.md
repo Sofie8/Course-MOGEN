@@ -8,7 +8,6 @@
 
 <p align="left">
 <img src="https://media3.giphy.com/media/l378k6daOZqRhPNPa/giphy.gif?cid=ecf05e472cxnyarcrfw3fv3xfa7pp33akyl9q97wky9hgqkv&rid=giphy.gif" width="150">
-<img src="http://www.bio.miami.edu/dana/pix/glassgem_corn.jpg" width="150">
 </p>
 
 ## Barbara McClintock discovered...?
@@ -65,7 +64,7 @@ There are two types of retrotransposons, write them below:
 
 Large genomes have tremendous numbers of transposable elements. Some may be composed mostly of transposable elements. 
 
-<img src="https://www.bio.miami.edu/dana/pix/TE_human_genome.png" width="200">
+<img src="https://github.com/Sofie8/Course-MOGEN/blob/main/TE_human_genome.png" width="200">
 
 More than half of the human genome consists of:  
 -long interspersed elements (LINEs)  
