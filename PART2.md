@@ -17,7 +17,7 @@ What did Barbara McClintock discover in the early 1940's when looking at the pat
 
 
 ## Transposable Elements
-A Transposable Element (TE), sometimes called a "jumping gene", is short piece of DNA capable of moving from one location in the genome to another.
+A Transposable Element (TE), sometimes called a "jumping gene", is short piece of DNA capable of moving from one location in the genome to another [ref](https://www.nature.com/scitable/topicpage/transposons-the-jumping-genes-518/).
 A transposable element can transpose:  
 
 - to a different spot on the same chromosome  
@@ -74,7 +74,7 @@ Most no longer transpose, but can still be identified by the presence of flankin
 
 A vast number are found only in introns. These are excised and never translated. They are evolutionary relics rendered harmless by their benign insertion location the host's regulatory mechanisms
 
-To which type of retrotransposons do LINE and SINE belong?
+To which type of retrotransposons do LINE and SINE belong? [Read](https://onetipperday.blogspot.com/2012/08/transposable-elements-te.html)
 
 ## SINE
 The most abundant SINE in the human genome contains a target site for the Alu (from *Arthrobacter luteus*) restriction enzyme. This SINE is named the Alu element.
